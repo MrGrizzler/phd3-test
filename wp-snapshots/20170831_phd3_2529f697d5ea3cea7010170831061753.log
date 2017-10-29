@@ -1,0 +1,78 @@
+********************************************************************************
+DUPLICATOR-LITE PACKAGE-LOG: 2017-08-31 06:18:00
+NOTICE: Do NOT post to public sites or forums 
+********************************************************************************
+VERSION:	1.2.14
+WORDPRESS:	4.8.1
+PHP INFO:	7.0.8 | SAPI: apache2handler
+SERVER:		Apache/2.2.29 (Unix) mod_wsgi/3.5 Python/2.7.10 PHP/7.0.8 mod_ssl/2.2.29 OpenSSL/0.9.8zh DAV/2 mod_fastcgi/2.4.6 mod_perl/2.0.9 Perl/v5.22.0 
+PHP TIME LIMIT: (0) no time limit imposed 
+PHP MAX MEMORY: 2048M (128M default) 
+MEMORY STACK: 16MB 
+
+********************************************************************************
+DATABASE:
+********************************************************************************
+BUILD MODE:   PHP(query limit - 100)
+MYSQLTIMEOUT: 5000
+MYSQLDUMP:    Not Supported 
+TABLES: total:13 | filtered:0 | create:13 
+FILTERED: [] 
+SQL CREATED: 20170831_phd3_2529f697d5ea3cea7010170831061753_database.sql 
+SQL FILE SIZE: 11.97MB (12548770) 
+SQL FILE TIME: 2017-08-31 06:18:01 
+SQL RUNTIME: 0.47 sec. 
+
+******************************************************************************** 
+ARCHIVE (ZIP): 
+******************************************************************************** 
+ARCHIVE DIR:  /Applications/MAMP/htdocs/phd3 
+ARCHIVE FILE: 20170831_phd3_2529f697d5ea3cea7010170831061753_archive.zip 
+FILTERS: *OFF* 
+DIRS:
+	not set 
+FILES:
+	not set 
+EXTS:  not set 
+---------------------------------------- 
+COMPRESSING 
+SIZE:	86.47MB 
+STATS:	Dirs 317 | Files 2,709 
+SQL ADDED: 20170831_phd3_2529f697d5ea3cea7010170831061753_database.sql 
+ZipArchive Object
+(
+    [status] => 0
+    [statusSys] => 0
+    [numFiles] => 3026
+    [filename] => /Applications/MAMP/htdocs/phd3/wp-snapshots/tmp/20170831_phd3_2529f697d5ea3cea7010170831061753_archive.zip
+    [comment] => 
+)
+ 
+COMPRESSION RESULT: '1' 
+COMPRESSED SIZE: 39.58MB 
+ARCHIVE RUNTIME: 10.55 sec. 
+MEMORY STACK: 20MB 
+
+******************************************************************************** 
+MAKE INSTALLER: 
+******************************************************************************** 
+Build Start 
+Build Finished 
+Preping for use 
+Template parsed with new data 
+Complete [/Applications/MAMP/htdocs/phd3/wp-snapshots/tmp/20170831_phd3_2529f697d5ea3cea7010170831061753_installer.php] 
+Added to archive 
+
+******************************************************************************** 
+INTEGRITY CHECKS: 
+******************************************************************************** 
+SQL File: 11.97MB 
+Installer File: 431.99KB 
+Archive File: 39.58MB  
+
+********************************************************************************
+RECORD ID:[1]
+TOTAL PROCESS RUNTIME: 11.37 sec.
+PEAK PHP MEMORY USED: 26.48MB
+DONE PROCESSING => 20170831_phd3 2017-08-31 06:18:11
+ 
